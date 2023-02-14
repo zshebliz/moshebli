@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>moshebli</title>
+        <title>Mohammad Shebli</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,10 +14,11 @@ export default function Home() {
         <Header title="Mohammad Shebli" />
         <p className="description">
           <code>الموقع قيد التطوير حاليا</code>
+    <Footerhg/>
         </p>
       </main>
 
-      <Footer جميع الحقوق محفوظة/>
+      
     </div>
   )
 }
