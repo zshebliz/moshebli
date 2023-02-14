@@ -18,9 +18,9 @@ main {
   justify-content: center;
   align-items: center;
 }
-<img src="moshebli" alt="Wiki Hsoub Logo">
+
 code {
-  background-image: url('moshebli');
+  background-color: green
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
