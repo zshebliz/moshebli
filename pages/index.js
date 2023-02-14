@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Mohammad Shebli" />
         <p className="description">
-          Get started by editing <code>الموقع قيد التطوير حاليا</code>
+          <code>الموقع قيد التطوير حاليا</code>
         </p>
       </main>
 
