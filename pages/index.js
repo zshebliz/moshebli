@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Mohammad Shebli" />
         <p className="description">
           <code>الموقع قيد التطوير حاليا</code>
-    <Footerhg/>
+    <Footer = جميع الحقوق لدى/>
         </p>
       </main>
 
