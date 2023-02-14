@@ -33,3 +33,22 @@ code {
   justify-content: center;
   align-items: center;
 }
+<style>
+        .backimage {
+                         
+            width: 980px;
+            height: 200px;
+                         
+            background-repeat: no-repeat;
+                        
+            background-image: url('crépuscule.jpg');
+                         
+            margin: auto;
+        }
+ 
+        .backtable {
+            margin-top: 40px;
+                       
+            float: left;
+        }
+    </style>
